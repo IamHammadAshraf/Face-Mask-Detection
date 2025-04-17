@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Face Mask Detection with CNN & OpenCV
 
 This repository provides a **complete working solution** for real-time **Face Mask Detection** using Convolutional Neural Networks (CNN) and OpenCV. It is designed to work **flawlessly in Google Colab or locally** (e.g., VS Code), with **no broken links** and a **ready-to-run dataset from Kaggle**.
